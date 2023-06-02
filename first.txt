@@ -1,0 +1,6 @@
+class Demo{
+ pubilc static void main(String[] args)
+{
+  system.out.println("hiii");
+}
+}
